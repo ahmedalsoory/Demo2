@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp96
 {
-    internal class grand
+    public class grand
     {
         void print()
         {
-            Console.WriteLine("grand");
+            Console.WriteLine("new verdasdason");
         }
     }
 }
