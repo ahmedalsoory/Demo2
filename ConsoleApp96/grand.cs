@@ -12,5 +12,9 @@ namespace ConsoleApp96
         {
             Console.WriteLine("new verdasdason");
         }
+        void printStatus()
+        {
+            Console.WriteLine("print status");
+        }
     }
 }
