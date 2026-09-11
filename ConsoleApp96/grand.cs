@@ -10,7 +10,7 @@ namespace ConsoleApp96
     {
         void print()
         {
-            Console.WriteLine("aonther version");
+            Console.WriteLine("new verdasdason");
         }
     }
 }
