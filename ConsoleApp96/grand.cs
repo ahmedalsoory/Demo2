@@ -10,7 +10,8 @@ namespace ConsoleApp96
     {
         void print()
         {
-            Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason"); 
+        //https://github.com/dotnet/AspNetCore.Docs.git
         }
         void printStatus()
         {
