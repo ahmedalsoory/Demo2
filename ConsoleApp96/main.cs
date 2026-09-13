@@ -10,6 +10,31 @@ namespace ConsoleApp96
     {
         void pront()
         {
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
             Console.WriteLine("wwwwwwwwwwwww");
             Console.WriteLine("wwwwwwwwwwwww");
             Console.WriteLine("wwwwwwwwwwwww");
