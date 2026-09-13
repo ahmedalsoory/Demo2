@@ -11,7 +11,8 @@ namespace ConsoleApp96
         void print()
         {
             Console.WriteLine("new verdasdason"); 
-        //https://github.com/dotnet/AspNetCore.Docs.git
+            Console.WriteLine("new verdasdason");
+            //https://github.com/dotnet/AspNetCore.Docs.git
         }
         void printStatus()
         {
