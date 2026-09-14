@@ -11,6 +11,11 @@ namespace ConsoleApp96
         void print()
         {
             Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason");
+            Console.WriteLine("new verdasdason");
             Console.WriteLine("new verdasdason"); Console.WriteLine("new verdasdason");
             Console.WriteLine("new verdasdason"); Console.WriteLine("new verdasdason");
             Console.WriteLine("new verdasdason"); Console.WriteLine("new verdasdason");
